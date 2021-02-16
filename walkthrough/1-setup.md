@@ -219,3 +219,4 @@ Next we will walk through the process of creating feature branches, publishing c
 - [6. Release Branch](6-release-branch.md)
 - [7. Release Bugs](7-release-bugs.md)
 - [8. Completed Release](8-completed-release.md)
+git
