@@ -22,6 +22,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
-### [Quick Oatmeal Pancakes](writer/quick-oatmeal-pancakes.md) | pancakeman@flavor.magazine
+### [John Lemon](Writer/candied-carrots.md) | zestmaster@flavor.magazine
 
-[Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
+[Candied carrots](recipe/feb/candiet-carrots.md)
